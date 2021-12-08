@@ -8,6 +8,7 @@ Using lyric data for a given genre of music, can we fine-tune a model to genreat
 
 
 Dataset: Song lyrics from 6 musical genres (Data scraped from the website vagalume.com.br)
+
 https://www.kaggle.com/neisse/scrapped-lyrics-from-6-genres
 
 Data used for this project can be downloaded from Kaggle at the link above. The data preprocessing requires both the lyrics-data.csv and the artists-data.csv
