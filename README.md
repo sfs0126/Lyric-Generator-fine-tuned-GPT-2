@@ -26,5 +26,7 @@ Try it out and see what lyrics you can generate!
 
 
 Resources:
+
 https://github.com/huggingface/transformers/tree/master/examples/pytorch
+
 https://towardsdatascience.com/fine-tuning-gpt2-for-text-generation-using-pytorch-2ee61a4f1ba7
