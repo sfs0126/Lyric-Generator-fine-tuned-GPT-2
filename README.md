@@ -1,7 +1,7 @@
 # Lyric Generation for Different Music Genres
 ## Fine-Tuning GPT-2 and Evaluating with Perplexity
 
-##### This project uses Huggingface GPT-2 transformer to fine-tune text generation models based on lyric data to specific music genres.
+### This project uses Huggingface GPT-2 transformer to fine-tune text generation models based on lyric data to specific music genres.
 
 
 Using lyric data for a given genre of music, can we fine-tune a model to genreate lyrics? Yes, we can! This project takes you through the data preprocessing, model training and evaluation with perplexity, and test generation for lyric data. 
